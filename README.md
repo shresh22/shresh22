@@ -1,5 +1,5 @@
 # 💫 About Me:
-Building responsive web applications using HTML5,CSS,JavaScript that integrate simple AI feature<br><br>Looking to collaborate on : open source Python project or creative web development  initiatives <br>that uses generative AI APIs.<br><br>I am looking for help with : Advance data structure in Python and scaling my Ai models for real world use <br><br>I am currently learning react.js to level up my frontend game and deeper concept in neural Networks<br><br>Ask me about : frontend basics, python scripting or My favourite Manga<br><br>Fun fact :  I love to bother knowledgeable person with my eagerness <br><br>
+Building responsive web applications using HTML5,CSS,JavaScript that integrate simple AI feature<br><br>Looking to collaborate on : open source Python project or creative web development  initiatives <br>that uses generative AI APIs.<br><br>I am looking for help with : Advance data structure in Python and scaling my Ai models for real world use <br><br>I am currently learning react.js to level up my Frontend game and deeper concept in neural Networks<br><br>Ask me about : Frontend basics, python scripting or My favourite Manga<br><br>Fun fact :  Future AI Engineer by day , luxury car enthusiast by evening , and a binge manga reader<br><br>
 
 
 ## 🌐 Socials:
